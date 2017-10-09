@@ -1,0 +1,1121 @@
+[2017-08-31 13:56:20] LegoAPI.NOTICE: E_NOTICE: Undefined variable: token1 {"code":8,"message":"Undefined variable: token1","file":"/var/www/html/styl/api/src/Modules/Core/Controller/AuthController.php","line":12} []
+[2017-08-31 14:01:51] LegoAPI.NOTICE: E_NOTICE: Undefined variable: token1 {"code":8,"message":"Undefined variable: token1","file":"/var/www/html/styl/api/src/Modules/Core/Controller/AuthController.php","line":12} []
+[2017-08-31 14:02:06] LegoAPI.NOTICE: E_NOTICE: Undefined variable: token1 {"code":8,"message":"Undefined variable: token1","file":"/var/www/html/styl/api/src/Modules/Core/Controller/AuthController.php","line":12} []
+[2017-08-31 14:02:27] LegoAPI.NOTICE: E_NOTICE: Undefined variable: token1 {"code":8,"message":"Undefined variable: token1","file":"/var/www/html/styl/api/src/Modules/Core/Controller/AuthController.php","line":12} []
+[2017-08-31 14:02:55] LegoAPI.NOTICE: E_NOTICE: Undefined variable: token1 {"code":8,"message":"Undefined variable: token1","file":"/var/www/html/styl/api/src/Modules/Core/Controller/AuthController.php","line":12} []
+[2017-08-31 14:03:29] LegoAPI.NOTICE: E_NOTICE: Undefined variable: token1 {"code":8,"message":"Undefined variable: token1","file":"/var/www/html/styl/api/src/Modules/Core/Controller/AuthController.php","line":12} []
+[2017-08-31 14:04:46] LegoAPI.NOTICE: E_NOTICE: Undefined variable: token1 {"code":8,"message":"Undefined variable: token1","file":"/var/www/html/styl/api/src/Modules/Core/Controller/AuthController.php","line":12} []
+[2017-08-31 14:05:11] LegoAPI.NOTICE: E_NOTICE: Undefined variable: token1 {"code":8,"message":"Undefined variable: token1","file":"/var/www/html/styl/api/src/Modules/Core/Controller/AuthController.php","line":12} []
+[2017-08-31 14:05:57] LegoAPI.NOTICE: E_NOTICE: Undefined variable: token1 {"code":8,"message":"Undefined variable: token1","file":"/var/www/html/styl/api/src/Modules/Core/Controller/AuthController.php","line":12} []
+[2017-08-31 14:18:32] LegoAPI.WARNING: E_WARNING: Missing argument 1 for Lego\Slim\App::handleFatalError() {"code":2,"message":"Missing argument 1 for Lego\\Slim\\App::handleFatalError()","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":75} []
+[2017-08-31 14:18:32] LegoAPI.NOTICE: E_NOTICE: Undefined variable: ex {"code":8,"message":"Undefined variable: ex","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":80} []
+[2017-08-31 14:19:49] LegoAPI.WARNING: E_WARNING: Missing argument 1 for Lego\Slim\App::handleFatalError() {"code":2,"message":"Missing argument 1 for Lego\\Slim\\App::handleFatalError()","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":75} []
+[2017-08-31 14:19:54] LegoAPI.WARNING: E_WARNING: Missing argument 1 for Lego\Slim\App::handleFatalError() {"code":2,"message":"Missing argument 1 for Lego\\Slim\\App::handleFatalError()","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":75} []
+[2017-08-31 15:21:36] LegoAPI.WARNING: E_WARNING: Missing argument 1 for Lego\Slim\App::runFatalError(), called in /var/www/html/styl/api/libraries/Lego/Slim/App.php on line 86 and defined {"code":2,"message":"Missing argument 1 for Lego\\Slim\\App::runFatalError(), called in /var/www/html/styl/api/libraries/Lego/Slim/App.php on line 86 and defined","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":88} []
+[2017-08-31 15:21:36] LegoAPI.NOTICE: E_NOTICE: Undefined variable: lastError {"code":8,"message":"Undefined variable: lastError","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":90} []
+[2017-08-31 15:21:44] LegoAPI.WARNING: E_WARNING: Missing argument 1 for Lego\Slim\App::runFatalError(), called in /var/www/html/styl/api/libraries/Lego/Slim/App.php on line 86 and defined {"code":2,"message":"Missing argument 1 for Lego\\Slim\\App::runFatalError(), called in /var/www/html/styl/api/libraries/Lego/Slim/App.php on line 86 and defined","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":88} []
+[2017-08-31 15:21:44] LegoAPI.NOTICE: E_NOTICE: Undefined variable: lastError {"code":8,"message":"Undefined variable: lastError","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":90} []
+[2017-08-31 15:24:12] LegoAPI.NOTICE: E_NOTICE: Undefined variable: response {"code":8,"message":"Undefined variable: response","file":"/var/www/html/styl/api/libraries/Lego/Modular/View.php","line":111} []
+[2017-08-31 15:24:18] LegoAPI.NOTICE: E_NOTICE: Undefined variable: response {"code":8,"message":"Undefined variable: response","file":"/var/www/html/styl/api/libraries/Lego/Modular/View.php","line":111} []
+[2017-08-31 15:24:18] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Argument 1 passed to Slim\App::respond() must implement interface Psr\Http\Message\ResponseInterface, null given, called in /var/www/html/styl/api/libraries/Lego/Slim/App.php on line 95 and defined {"code":4096,"message":"Argument 1 passed to Slim\\App::respond() must implement interface Psr\\Http\\Message\\ResponseInterface, null given, called in /var/www/html/styl/api/libraries/Lego/Slim/App.php on line 95 and defined","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php","line":386} []
+[2017-08-31 15:27:44] LegoAPI.NOTICE: E_NOTICE: Undefined variable: response {"code":8,"message":"Undefined variable: response","file":"/var/www/html/styl/api/libraries/Lego/Modular/View.php","line":108} []
+[2017-08-31 15:28:09] LegoAPI.NOTICE: E_NOTICE: Undefined variable: response {"code":8,"message":"Undefined variable: response","file":"/var/www/html/styl/api/libraries/Lego/Modular/View.php","line":108} []
+[2017-08-31 15:28:16] LegoAPI.NOTICE: E_NOTICE: Undefined variable: response {"code":8,"message":"Undefined variable: response","file":"/var/www/html/styl/api/libraries/Lego/Modular/View.php","line":108} []
+[2017-08-31 15:41:57] LegoAPI.NOTICE: E_NOTICE: Undefined variable: trackCode {"code":8,"message":"Undefined variable: trackCode","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":96} []
+[2017-08-31 15:41:57] LegoAPI.INFO: [#cbaf0d2090][][4004] Call to undefined method Slim\Http\Request::getHeassder()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-08-31 15:41:57] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Argument 1 passed to Lego\Slim\App::runFatalError() must be an instance of Exception, string given, called in /var/www/html/styl/api/libraries/Lego/Slim/App.php on line 100 and defined {"code":4096,"message":"Argument 1 passed to Lego\\Slim\\App::runFatalError() must be an instance of Exception, string given, called in /var/www/html/styl/api/libraries/Lego/Slim/App.php on line 100 and defined","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":102} []
+[2017-08-31 15:42:16] LegoAPI.NOTICE: E_NOTICE: Undefined variable: trackCode {"code":8,"message":"Undefined variable: trackCode","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":96} []
+[2017-08-31 15:42:16] LegoAPI.INFO: [#04795a8227][][4004] Call to undefined method Slim\Http\Request::getHeassder()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-08-31 15:43:17] LegoAPI.NOTICE: E_NOTICE: Undefined variable: trackCode {"code":8,"message":"Undefined variable: trackCode","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":96} []
+[2017-08-31 15:43:17] LegoAPI.CRITICAL: [#9da89aa04c][][4004] Call to undefined method Slim\Http\Request::getHeassder()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-08-31 15:43:33] LegoAPI.NOTICE: E_NOTICE: Undefined variable: trackCode {"code":8,"message":"Undefined variable: trackCode","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":96} []
+[2017-08-31 15:43:33] LegoAPI.CRITICAL: [#ef76ffa8c4][][505] Call to undefined method Slim\Http\Request::getHeassder()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-08-31 15:44:41] LegoAPI.CRITICAL: [#2d4ade77ca][07b141][505] Call to undefined method Slim\Http\Request::getHeassder()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-08-31 15:45:08] LegoAPI.CRITICAL: [#d5e16ff5ee][d97c06][505] Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead.
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-08-31 15:47:20] LegoAPI.CRITICAL: [#3a4585d445][e98484][505] Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead.
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 14:25:37] LegoAPI.CRITICAL: [#813fcd3d7b][0669e4][505] Call to undefined method Slim\Http\Request::__toString()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 17:59:06] LegoAPI.NOTICE: E_NOTICE: Undefined variable: version1 {"code":8,"message":"Undefined variable: version1","file":"/var/www/html/styl/api/libraries/Lego/Helper/General.php","line":14} []
+[2017-09-01 17:59:06] LegoAPI.CRITICAL: [#e6db7b0532][cc8e89][505] Undefined variable: version1
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 18:00:36] LegoAPI.NOTICE: E_NOTICE: Undefined variable: version2 {"code":8,"message":"Undefined variable: version2","file":"/var/www/html/styl/api/libraries/Lego/Helper/General.php","line":14} []
+[2017-09-01 18:00:36] LegoAPI.CRITICAL: [#86d94650c7][8e9f54][505] Undefined variable: version2
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 18:00:58] LegoAPI.NOTICE: E_NOTICE: Undefined variable: version2 {"code":8,"message":"Undefined variable: version2","file":"/var/www/html/styl/api/libraries/Lego/Helper/General.php","line":14} []
+[2017-09-01 18:00:58] LegoAPI.CRITICAL: [#b5488b9653][8f1ee7][505] Undefined variable: version2
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 18:02:33] LegoAPI.NOTICE: E_NOTICE: Undefined variable: version2 {"code":8,"message":"Undefined variable: version2","file":"/var/www/html/styl/api/libraries/Lego/Helper/General.php","line":14} []
+[2017-09-07 13:11:29] LegoAPI.INFO: [#84c04d030e][6fb500][403] Unauthorized request
+ {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 13:12:14] LegoAPI.INFO: [#f1cc515db0][1681a1][403] Unauthorized request
+ {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 13:44:53] LegoAPI.CRITICAL: Unauthorized request {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 13:44:53] LegoAPI.INFO: [#1f16590466][1bcca0][403] Unauthorized request
+ {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 13:46:00] LegoAPI.CRITICAL: Unauthorized request {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 13:46:00] LegoAPI.INFO: [#bd9a037c52][3c01af][403] Unauthorized request
+ {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 13:48:28] LegoAPI.NOTICE: E_NOTICE: Use of undefined constant name - assumed 'name' {"code":8,"message":"Use of undefined constant name - assumed 'name'","file":"/var/www/html/styl/api/libraries/Lego/Auth/JWT.php","line":24} []
+[2017-09-07 14:12:58] LegoAPI.CRITICAL: Unauthorized request {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 14:12:58] LegoAPI.INFO: [#6a6294c293][5b36f3][403] Unauthorized request
+ {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 14:18:39] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Object of class stdClass could not be converted to string {"code":4096,"message":"Object of class stdClass could not be converted to string","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Http/Message.php","line":199} []
+[2017-09-07 14:18:48] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Object of class stdClass could not be converted to string {"code":4096,"message":"Object of class stdClass could not be converted to string","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Http/Message.php","line":199} []
+[2017-09-07 14:19:20] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Object of class stdClass could not be converted to string {"code":4096,"message":"Object of class stdClass could not be converted to string","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Http/Message.php","line":199} []
+[2017-09-07 14:21:59] LegoAPI.CRITICAL: [#857007f5b3][2f49fa][505] Call to undefined method Slim\Http\Request::set()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-07 14:22:50] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Unexpected data in output buffer. Maybe you have characters before an opening <?php tag?" at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php line 583 {"exception":"[object] (RuntimeException(code: 0): Unexpected data in output buffer. Maybe you have characters before an opening <?php tag? at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php:583)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(375): Slim\\App->finalize(Object(Slim\\Http\\Response))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#2 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#3 {main}
+"} []
+[2017-09-07 14:31:32] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Unexpected data in output buffer. Maybe you have characters before an opening <?php tag?" at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php line 583 {"exception":"[object] (RuntimeException(code: 0): Unexpected data in output buffer. Maybe you have characters before an opening <?php tag? at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php:583)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(375): Slim\\App->finalize(Object(Slim\\Http\\Response))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#2 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#3 {main}
+"} []
+[2017-09-07 15:04:14] LegoAPI.CRITICAL: Cannot override frozen service "request". {"trace":"#0 /var/www/html/styl/api/libraries/Lego/Slim/Authenticate.php(75): Pimple\\Container->offsetSet('request', Object(Slim\\Http\\Request))
+#1 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#3 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#5 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#6 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#7 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#8 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#13 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#14 {main}"} []
+[2017-09-07 15:04:14] LegoAPI.INFO: [#ee018c8384][5505b5][403] Unauthorized request
+ {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 15:04:35] LegoAPI.CRITICAL: Cannot override frozen service "request". {"trace":"#0 /var/www/html/styl/api/libraries/Lego/Slim/Authenticate.php(75): Pimple\\Container->offsetSet('request', Object(Slim\\Http\\Request))
+#1 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#3 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#5 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#6 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#7 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#8 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#13 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#14 {main}"} []
+[2017-09-07 15:04:35] LegoAPI.INFO: [#f60b08c71a][d04bff][403] Unauthorized request
+ {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 15:05:54] LegoAPI.CRITICAL: Cannot override frozen service "request". {"trace":"#0 /var/www/html/styl/api/libraries/Lego/Slim/Authenticate.php(75): Pimple\\Container->offsetSet('request', Object(Slim\\Http\\Request))
+#1 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#3 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#5 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#6 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#7 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#8 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#13 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#14 {main}"} []
+[2017-09-07 15:05:54] LegoAPI.INFO: [#5c82ca25ef][8aef2b][403] Unauthorized request
+ {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 15:06:31] LegoAPI.CRITICAL: Cannot override frozen service "request". {"trace":"#0 /var/www/html/styl/api/libraries/Lego/Slim/Authenticate.php(75): Pimple\\Container->offsetSet('request', Object(Slim\\Http\\Request))
+#1 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#3 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#5 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#6 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#7 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#8 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#13 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#14 {main}"} []
+[2017-09-07 15:06:31] LegoAPI.INFO: [#a4d3f31e1d][c3c35b][403] Unauthorized request
+ {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 15:11:49] LegoAPI.CRITICAL: Cannot override frozen service "request". {"trace":"#0 /var/www/html/styl/api/libraries/Lego/Slim/Authenticate.php(73): Pimple\\Container->offsetSet('request', Object(Slim\\Http\\Request))
+#1 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#3 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#5 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#6 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#7 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#8 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#13 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#14 {main}"} []
+[2017-09-07 15:11:49] LegoAPI.INFO: [#0ac74962d1][495293][403] Unauthorized request
+ {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 15:19:36] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Argument 2 passed to Lego\Modular\Controller::__construct() must implement interface Psr\Http\Message\RequestInterface, none given, called in /var/www/html/styl/api/libraries/Lego/Modular/APIController.php on line 11 and defined {"code":4096,"message":"Argument 2 passed to Lego\\Modular\\Controller::__construct() must implement interface Psr\\Http\\Message\\RequestInterface, none given, called in /var/www/html/styl/api/libraries/Lego/Modular/APIController.php on line 11 and defined","file":"/var/www/html/styl/api/libraries/Lego/Modular/Controller.php","line":17} []
+[2017-09-07 15:26:46] LegoAPI.CRITICAL: Cannot override frozen service "request". {"trace":"#0 /var/www/html/styl/api/libraries/Lego/Slim/Authenticate.php(74): Pimple\\Container->offsetSet('request', Object(Closure))
+#1 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#3 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#5 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#6 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#7 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#8 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#13 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#14 {main}"} []
+[2017-09-07 15:26:46] LegoAPI.INFO: [#6ed058b63e][77adf6][403] Unauthorized request
+ {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 15:28:41] LegoAPI.CRITICAL: Cannot override frozen service "request". {"trace":"#0 /var/www/html/styl/api/libraries/Lego/Slim/Authenticate.php(74): Pimple\\Container->offsetSet('request', Object(Closure))
+#1 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#3 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#5 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#6 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#7 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#8 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#13 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#14 {main}"} []
+[2017-09-07 15:28:41] LegoAPI.INFO: [#9267c0a868][775705][403] Unauthorized request
+ {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-07 15:29:05] LegoAPI.CRITICAL: Cannot override frozen service "request". {"trace":"#0 /var/www/html/styl/api/libraries/Lego/Slim/Authenticate.php(74): Pimple\\Container->offsetSet('request', Object(Closure))
+#1 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#3 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#5 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#6 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#7 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#8 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#13 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#14 {main}"} []
+[2017-09-07 15:29:05] LegoAPI.INFO: [#9e31a1972f][deef36][403] Unauthorized request
+ {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#12 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#13 {main}"} []
+[2017-09-08 16:53:51] LegoAPI.CRITICAL: [#b12ac4c848][8264a5][505] Using $this when not in object context
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 16:54:10] LegoAPI.CRITICAL: [#273f72e2bd][3fb27e][505] Using $this when not in object context
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 16:54:16] LegoAPI.CRITICAL: [#1ec5d0b246][ae433a][505] Using $this when not in object context
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 16:54:24] LegoAPI.CRITICAL: [#894c494edf][7fef2f][505] Using $this when not in object context
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 16:55:36] LegoAPI.CRITICAL: [#334bb65eb2][00bbce][505] Using $this when not in object context
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 17:01:13] LegoAPI.CRITICAL: [#1282e69d65][177038][505] Class 'Runner100' not found
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 17:01:32] LegoAPI.CRITICAL: [#cb9a971c04][92232e][505] Class 'Runner100' not found
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 17:13:47] LegoAPI.CRITICAL: [#b01381a571][30fa0a][505] Class 'Runner100' not found
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 17:14:39] LegoAPI.CRITICAL: [#4361fc74e1][b6040c][505] Class 'Runner100' not found
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 17:15:46] LegoAPI.CRITICAL: [#08c72316ae][29fe53][505] Class 'Runner100' not found
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 17:16:19] LegoAPI.CRITICAL: [#cfe46b96da][c0c64c][505] Class 'Runner100' not found
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 17:19:29] LegoAPI.CRITICAL: [#f747a7a63f][fa044e][505] Class 'Runner100' not found
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 17:20:29] LegoAPI.CRITICAL: [#e6a724d614][1f7989][505] Class 'Runner100' not found
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 17:20:34] LegoAPI.CRITICAL: [#e41d5826a3][efe403][505] Class 'Runner100' not found
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 17:21:19] LegoAPI.CRITICAL: [#40f7f1f52b][8fa4be][505] Class 'Runner100' not found
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 17:22:04] LegoAPI.CRITICAL: [#cbfd4cf014][816ba4][505] Class 'Runner100' not found
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-08 17:23:36] LegoAPI.CRITICAL: [#da9aafa09f][497300][505] Class 'Runner100' not found
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-15 09:39:34] LegoAPI.WARNING: E_WARNING: mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) {"code":2,"message":"mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)","file":"/var/www/html/styl/api/libraries/SimpleORM/Adapter/Mysqli.php","line":18} []
+[2017-09-15 09:39:34] LegoAPI.NOTICE: E_NOTICE: Trying to get property of non-object {"code":8,"message":"Trying to get property of non-object","file":"/var/www/html/styl/api/libraries/SimpleORM/Adapter/Mysqli.php","line":19} []
+[2017-09-15 09:39:34] LegoAPI.CRITICAL: [#524ca5d9e6][76c989][505] Call to a member function set_charset() on boolean
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-15 09:41:26] LegoAPI.WARNING: E_WARNING: mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) {"code":2,"message":"mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)","file":"/var/www/html/styl/api/libraries/SimpleORM/Adapter/Mysqli.php","line":18} []
+[2017-09-15 09:41:26] LegoAPI.NOTICE: E_NOTICE: Trying to get property of non-object {"code":8,"message":"Trying to get property of non-object","file":"/var/www/html/styl/api/libraries/SimpleORM/Adapter/Mysqli.php","line":19} []
+[2017-09-15 09:41:26] LegoAPI.CRITICAL: [#3b29209241][fa2a58][505] Call to a member function set_charset() on boolean
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-15 09:43:53] LegoAPI.CRITICAL: [#1044621b6e][2ddb9e][505] Call to a member function getAdapter() on null
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-15 09:45:38] LegoAPI.CRITICAL: [#e56e9d9124][1f3a45][505] Call to a member function getAdapter() on null
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-15 09:47:49] LegoAPI.CRITICAL: [#e5c533281d][72ad0b][505] Call to a member function getAdapter() on null
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-15 09:55:20] LegoAPI.NOTICE: E_NOTICE: Trying to get property of non-object {"code":8,"message":"Trying to get property of non-object","file":"/var/www/html/styl/api/libraries/SimpleORM/Helper/Connector.php","line":58} []
+[2017-09-15 09:55:20] LegoAPI.CRITICAL: [#e9076a2abc][526b12][505] Call to a member function getTableConfig() on null
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-15 09:56:34] LegoAPI.NOTICE: E_NOTICE: Trying to get property of non-object {"code":8,"message":"Trying to get property of non-object","file":"/var/www/html/styl/api/libraries/SimpleORM/Helper/Connector.php","line":58} []
+[2017-09-15 09:56:34] LegoAPI.CRITICAL: [#321f363f35][041c3a][505] Call to a member function getTableConfig() on null
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-15 10:00:03] LegoAPI.NOTICE: E_NOTICE: Undefined variable: dbConnector {"code":8,"message":"Undefined variable: dbConnector","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":90} []
+[2017-09-15 10:00:03] LegoAPI.CRITICAL: [#af02a4b6bb][448a89][505] Call to a member function getAdapter() on null
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-15 10:00:14] LegoAPI.NOTICE: E_NOTICE: Undefined variable: dbConnector {"code":8,"message":"Undefined variable: dbConnector","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":90} []
+[2017-09-28 11:42:00] LegoAPI.CRITICAL: [#a53d9063fe][0f060b][505] Call to a member function find() on string
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-28 11:52:45] LegoAPI.CRITICAL: [#36eca3fc57][1e5f08][505] Call to a member function connection() on null
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-28 13:12:01] LegoAPI.NOTICE: E_NOTICE: Undefined variable: c {"code":8,"message":"Undefined variable: c","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":89} []
+[2017-09-28 13:12:01] LegoAPI.NOTICE: E_NOTICE: Undefined index: driver {"code":8,"message":"Undefined index: driver","file":"/var/www/html/styl/api/libraries/vendor/illuminate/database/DatabaseManager.php","line":115} []
+[2017-09-28 13:12:01] LegoAPI.NOTICE: E_NOTICE: Undefined index: driver {"code":8,"message":"Undefined index: driver","file":"/var/www/html/styl/api/libraries/vendor/illuminate/database/Connectors/ConnectionFactory.php","line":77} []
+[2017-09-28 13:12:01] LegoAPI.NOTICE: E_NOTICE: Undefined index: database {"code":8,"message":"Undefined index: database","file":"/var/www/html/styl/api/libraries/vendor/illuminate/database/Connectors/ConnectionFactory.php","line":77} []
+[2017-09-28 13:13:39] LegoAPI.NOTICE: E_NOTICE: Undefined variable: c {"code":8,"message":"Undefined variable: c","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":89} []
+[2017-09-28 13:13:39] LegoAPI.NOTICE: E_NOTICE: Undefined variable: sDbNameConnection {"code":8,"message":"Undefined variable: sDbNameConnection","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":92} []
+[2017-09-28 13:14:23] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Argument 1 passed to Illuminate\Database\Capsule\Manager::__construct() must be an instance of Illuminate\Container\Container, instance of Slim\Container given, called in /var/www/html/styl/api/libraries/Lego/Slim/App.php on line 89 and defined {"code":4096,"message":"Argument 1 passed to Illuminate\\Database\\Capsule\\Manager::__construct() must be an instance of Illuminate\\Container\\Container, instance of Slim\\Container given, called in /var/www/html/styl/api/libraries/Lego/Slim/App.php on line 89 and defined","file":"/var/www/html/styl/api/libraries/vendor/illuminate/database/Capsule/Manager.php","line":30} []
+[2017-09-28 13:14:36] LegoAPI.NOTICE: E_NOTICE: Undefined variable: sDbNameConnection {"code":8,"message":"Undefined variable: sDbNameConnection","file":"/var/www/html/styl/api/libraries/Lego/Slim/App.php","line":92} []
+[2017-09-28 13:14:52] LegoAPI.CRITICAL: [#9f57bc7de6][bc7d8a][505] Call to undefined method Lego\Database\Connector::getAdapter()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-28 13:18:09] LegoAPI.CRITICAL: [#235a548a9b][be2d5d][505] Call to undefined method Illuminate\Database\MySqlConnection::getDriverInfo()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-28 13:18:19] LegoAPI.CRITICAL: [#9a470f7e7d][68610e][505] Call to undefined method Illuminate\Database\MySqlConnection::getDriverInfo()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-28 13:21:23] LegoAPI.CRITICAL: [#6fbfab55cf][434925][505] Call to undefined method Illuminate\Database\MySqlConnection::getDriverInfo()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-02 15:33:46] LegoAPI.NOTICE: E_NOTICE: Undefined index: protocol {"code":8,"message":"Undefined index: protocol","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:33:46] LegoAPI.NOTICE: E_NOTICE: Undefined index: host {"code":8,"message":"Undefined index: host","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:33:46] LegoAPI.NOTICE: E_NOTICE: Undefined index: port {"code":8,"message":"Undefined index: port","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:34:04] LegoAPI.WARNING: E_WARNING: mkdir(): Permission denied {"code":2,"message":"mkdir(): Permission denied","file":"/var/www/html/styl/api/libraries/vendor/league/flysystem/src/Adapter/Local.php","line":367} []
+[2017-10-02 15:34:04] LegoAPI.NOTICE: E_NOTICE: Undefined index: protocol {"code":8,"message":"Undefined index: protocol","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:34:04] LegoAPI.NOTICE: E_NOTICE: Undefined index: host {"code":8,"message":"Undefined index: host","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:34:04] LegoAPI.NOTICE: E_NOTICE: Undefined index: port {"code":8,"message":"Undefined index: port","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:43:53] LegoAPI.WARNING: E_WARNING: mkdir(): Permission denied {"code":2,"message":"mkdir(): Permission denied","file":"/var/www/html/styl/api/libraries/vendor/league/flysystem/src/Adapter/Local.php","line":367} []
+[2017-10-02 15:43:53] LegoAPI.NOTICE: E_NOTICE: Undefined index: protocol {"code":8,"message":"Undefined index: protocol","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:43:53] LegoAPI.NOTICE: E_NOTICE: Undefined index: host {"code":8,"message":"Undefined index: host","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:43:53] LegoAPI.NOTICE: E_NOTICE: Undefined index: port {"code":8,"message":"Undefined index: port","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:44:14] LegoAPI.WARNING: E_WARNING: mkdir(): Permission denied {"code":2,"message":"mkdir(): Permission denied","file":"/var/www/html/styl/api/libraries/vendor/league/flysystem/src/Adapter/Local.php","line":367} []
+[2017-10-02 15:44:14] LegoAPI.NOTICE: E_NOTICE: Undefined index: protocol {"code":8,"message":"Undefined index: protocol","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:44:14] LegoAPI.NOTICE: E_NOTICE: Undefined index: host {"code":8,"message":"Undefined index: host","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:44:14] LegoAPI.NOTICE: E_NOTICE: Undefined index: port {"code":8,"message":"Undefined index: port","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:44:14] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Argument 1 passed to Cache\Adapter\Common\AbstractCachePool::save() must be an instance of Psr\Cache\CacheItemInterface, string given, called in /var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php on line 15 and defined {"code":4096,"message":"Argument 1 passed to Cache\\Adapter\\Common\\AbstractCachePool::save() must be an instance of Psr\\Cache\\CacheItemInterface, string given, called in /var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php on line 15 and defined","file":"/var/www/html/styl/api/libraries/vendor/cache/adapter-common/AbstractCachePool.php","line":221} []
+[2017-10-02 15:44:33] LegoAPI.WARNING: E_WARNING: mkdir(): Permission denied {"code":2,"message":"mkdir(): Permission denied","file":"/var/www/html/styl/api/libraries/vendor/league/flysystem/src/Adapter/Local.php","line":367} []
+[2017-10-02 15:44:33] LegoAPI.NOTICE: E_NOTICE: Undefined index: protocol {"code":8,"message":"Undefined index: protocol","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:44:33] LegoAPI.NOTICE: E_NOTICE: Undefined index: host {"code":8,"message":"Undefined index: host","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:44:33] LegoAPI.NOTICE: E_NOTICE: Undefined index: port {"code":8,"message":"Undefined index: port","file":"/var/www/html/styl/api/libraries/Lego/Slim/Cache.php","line":22} []
+[2017-10-02 15:44:33] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Argument 1 passed to Cache\Adapter\Common\AbstractCachePool::save() must be an instance of Psr\Cache\CacheItemInterface, string given, called in /var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php on line 15 and defined {"code":4096,"message":"Argument 1 passed to Cache\\Adapter\\Common\\AbstractCachePool::save() must be an instance of Psr\\Cache\\CacheItemInterface, string given, called in /var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php on line 15 and defined","file":"/var/www/html/styl/api/libraries/vendor/cache/adapter-common/AbstractCachePool.php","line":221} []
+[2017-10-02 15:56:54] LegoAPI.WARNING: E_WARNING: mkdir(): Permission denied {"code":2,"message":"mkdir(): Permission denied","file":"/var/www/html/styl/api/libraries/vendor/league/flysystem/src/Adapter/Local.php","line":367} []
+[2017-10-02 15:56:54] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Argument 1 passed to Cache\Adapter\Common\AbstractCachePool::save() must be an instance of Psr\Cache\CacheItemInterface, string given, called in /var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php on line 15 and defined {"code":4096,"message":"Argument 1 passed to Cache\\Adapter\\Common\\AbstractCachePool::save() must be an instance of Psr\\Cache\\CacheItemInterface, string given, called in /var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php on line 15 and defined","file":"/var/www/html/styl/api/libraries/vendor/cache/adapter-common/AbstractCachePool.php","line":221} []
+[2017-10-02 15:59:01] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Argument 1 passed to Cache\Adapter\Common\AbstractCachePool::save() must be an instance of Psr\Cache\CacheItemInterface, string given, called in /var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php on line 15 and defined {"code":4096,"message":"Argument 1 passed to Cache\\Adapter\\Common\\AbstractCachePool::save() must be an instance of Psr\\Cache\\CacheItemInterface, string given, called in /var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php on line 15 and defined","file":"/var/www/html/styl/api/libraries/vendor/cache/adapter-common/AbstractCachePool.php","line":221} []
+[2017-10-03 10:58:44] LegoAPI.NOTICE: E_DEPRECATED: Non-static method Lego\Modular\Model::cache() should not be called statically, assuming $this from incompatible context {"code":8192,"message":"Non-static method Lego\\Modular\\Model::cache() should not be called statically, assuming $this from incompatible context","file":"/var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php","line":15} []
+[2017-10-03 10:58:44] LegoAPI.CRITICAL: [#2933ce11ba][c0db5d][505] Call to undefined method LegoAPI\Modules\Core\Controller\IndexController::getCacheManager()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-03 11:24:48] LegoAPI.NOTICE: E_NOTICE: Undefined variable: ids {"code":8,"message":"Undefined variable: ids","file":"/var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php","line":15} []
+[2017-10-03 11:37:31] LegoAPI.NOTICE: E_NOTICE: Undefined variable: ids {"code":8,"message":"Undefined variable: ids","file":"/var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php","line":15} []
+[2017-10-03 11:44:18] LegoAPI.NOTICE: E_NOTICE: Undefined variable: ids {"code":8,"message":"Undefined variable: ids","file":"/var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php","line":15} []
+[2017-10-03 11:44:33] LegoAPI.WARNING: E_WARNING: Missing argument 1 for Illuminate\Database\Eloquent\Builder::findMany(), called in /var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php on line 15 and defined {"code":2,"message":"Missing argument 1 for Illuminate\\Database\\Eloquent\\Builder::findMany(), called in /var/www/html/styl/api/src/Modules/Core/Controller/IndexController.php on line 15 and defined","file":"/var/www/html/styl/api/libraries/vendor/illuminate/database/Eloquent/Builder.php","line":282} []
+[2017-10-03 14:20:18] LegoAPI.NOTICE: E_NOTICE: Use of undefined constant request - assumed 'request' {"code":8,"message":"Use of undefined constant request - assumed 'request'","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php","line":363} []
+[2017-10-03 14:36:23] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Unexpected data in output buffer. Maybe you have characters before an opening <?php tag?" at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php line 584 {"exception":"[object] (RuntimeException(code: 0): Unexpected data in output buffer. Maybe you have characters before an opening <?php tag? at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php:584)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(376): Slim\\App->finalize(Object(Slim\\Http\\Response))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#2 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#3 {main}
+"} []
+[2017-10-03 15:49:05] LegoAPI.WARNING: E_WARNING: Missing argument 2 for Slim\Http\Request::withAttribute(), called in /var/www/html/styl/api/libraries/Lego/Slim/DynamicRouter.php on line 37 and defined {"code":2,"message":"Missing argument 2 for Slim\\Http\\Request::withAttribute(), called in /var/www/html/styl/api/libraries/Lego/Slim/DynamicRouter.php on line 37 and defined","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Http/Request.php","line":946} []
+[2017-10-03 15:49:05] LegoAPI.NOTICE: E_NOTICE: Undefined variable: value {"code":8,"message":"Undefined variable: value","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Http/Request.php","line":949} []
+[2017-10-03 15:50:13] LegoAPI.WARNING: E_WARNING: Missing argument 2 for Slim\Http\Request::withAttribute(), called in /var/www/html/styl/api/libraries/Lego/Slim/DynamicRouter.php on line 37 and defined {"code":2,"message":"Missing argument 2 for Slim\\Http\\Request::withAttribute(), called in /var/www/html/styl/api/libraries/Lego/Slim/DynamicRouter.php on line 37 and defined","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Http/Request.php","line":946} []
+[2017-10-03 15:50:13] LegoAPI.NOTICE: E_NOTICE: Undefined variable: value {"code":8,"message":"Undefined variable: value","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Http/Request.php","line":949} []
+[2017-10-03 15:52:33] LegoAPI.WARNING: E_WARNING: Missing argument 2 for Slim\Http\Request::withAttribute(), called in /var/www/html/styl/api/libraries/Lego/Slim/DynamicRouter.php on line 38 and defined {"code":2,"message":"Missing argument 2 for Slim\\Http\\Request::withAttribute(), called in /var/www/html/styl/api/libraries/Lego/Slim/DynamicRouter.php on line 38 and defined","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Http/Request.php","line":946} []
+[2017-10-03 15:52:33] LegoAPI.NOTICE: E_NOTICE: Undefined variable: value {"code":8,"message":"Undefined variable: value","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Http/Request.php","line":949} []
+[2017-10-03 16:05:39] LegoAPI.NOTICE: E_NOTICE: Undefined offset: 1 {"code":8,"message":"Undefined offset: 1","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php","line":474} []
+[2017-10-03 16:08:51] LegoAPI.NOTICE: E_NOTICE: Undefined offset: 1 {"code":8,"message":"Undefined offset: 1","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php","line":474} []
+[2017-10-03 16:12:46] LegoAPI.NOTICE: E_NOTICE: Undefined offset: 1 {"code":8,"message":"Undefined offset: 1","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php","line":474} []
+[2017-10-03 16:12:46] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Unexpected data in output buffer. Maybe you have characters before an opening <?php tag?" at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php line 583 {"exception":"[object] (RuntimeException(code: 0): Unexpected data in output buffer. Maybe you have characters before an opening <?php tag? at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php:583)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(375): Slim\\App->finalize(Object(Slim\\Http\\Response))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#2 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#3 {main}
+"} []
+[2017-10-03 16:13:59] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Unexpected data in output buffer. Maybe you have characters before an opening <?php tag?" at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php line 583 {"exception":"[object] (RuntimeException(code: 0): Unexpected data in output buffer. Maybe you have characters before an opening <?php tag? at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php:583)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(375): Slim\\App->finalize(Object(Slim\\Http\\Response))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#2 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#3 {main}
+"} []
+[2017-10-03 16:24:50] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Unexpected data in output buffer. Maybe you have characters before an opening <?php tag?" at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php line 583 {"exception":"[object] (RuntimeException(code: 0): Unexpected data in output buffer. Maybe you have characters before an opening <?php tag? at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php:583)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(375): Slim\\App->finalize(Object(Slim\\Http\\Response))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#2 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#3 {main}
+"} []
+[2017-10-03 16:54:16] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Argument 1 passed to Slim\Router::setDispatcher() must implement interface FastRoute\Dispatcher, null given, called in /var/www/html/styl/api/libraries/Lego/Slim/DynamicRouter.php on line 67 and defined {"code":4096,"message":"Argument 1 passed to Slim\\Router::setDispatcher() must implement interface FastRoute\\Dispatcher, null given, called in /var/www/html/styl/api/libraries/Lego/Slim/DynamicRouter.php on line 67 and defined","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php","line":248} []
+[2017-10-03 16:54:25] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Argument 1 passed to Slim\Router::setDispatcher() must implement interface FastRoute\Dispatcher, null given, called in /var/www/html/styl/api/libraries/Lego/Slim/DynamicRouter.php on line 67 and defined {"code":4096,"message":"Argument 1 passed to Slim\\Router::setDispatcher() must implement interface FastRoute\\Dispatcher, null given, called in /var/www/html/styl/api/libraries/Lego/Slim/DynamicRouter.php on line 67 and defined","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php","line":248} []
+[2017-10-03 16:59:44] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Argument 1 passed to Slim\Router::setDispatcher() must implement interface FastRoute\Dispatcher, null given, called in /var/www/html/styl/api/libraries/Lego/Slim/DynamicRouter.php on line 67 and defined {"code":4096,"message":"Argument 1 passed to Slim\\Router::setDispatcher() must implement interface FastRoute\\Dispatcher, null given, called in /var/www/html/styl/api/libraries/Lego/Slim/DynamicRouter.php on line 67 and defined","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php","line":248} []
+[2017-10-03 16:59:50] LegoAPI.NOTICE: E_NOTICE: Undefined offset: 1 {"code":8,"message":"Undefined offset: 1","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php","line":474} []
+[2017-10-03 17:30:12] LegoAPI.NOTICE: E_NOTICE: Undefined variable: router {"code":8,"message":"Undefined variable: router","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php","line":193} []
+[2017-10-03 17:30:12] LegoAPI.CRITICAL: [#fba2e3ffc8][04bb7a][505] Call to a member function getRoutes() on null
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-03 17:41:08] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Unexpected data in output buffer. Maybe you have characters before an opening <?php tag?" at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php line 586 {"exception":"[object] (RuntimeException(code: 0): Unexpected data in output buffer. Maybe you have characters before an opening <?php tag? at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php:586)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(375): Slim\\App->finalize(Object(Slim\\Http\\Response))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#2 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#3 {main}
+"} []
+[2017-10-03 17:41:38] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Unexpected data in output buffer. Maybe you have characters before an opening <?php tag?" at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php line 586 {"exception":"[object] (RuntimeException(code: 0): Unexpected data in output buffer. Maybe you have characters before an opening <?php tag? at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php:586)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(375): Slim\\App->finalize(Object(Slim\\Http\\Response))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#2 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#3 {main}
+"} []
+[2017-10-03 17:41:59] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Unexpected data in output buffer. Maybe you have characters before an opening <?php tag?" at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php line 586 {"exception":"[object] (RuntimeException(code: 0): Unexpected data in output buffer. Maybe you have characters before an opening <?php tag? at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php:586)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(375): Slim\\App->finalize(Object(Slim\\Http\\Response))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#2 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#3 {main}
+"} []
+[2017-10-03 17:42:20] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Unexpected data in output buffer. Maybe you have characters before an opening <?php tag?" at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php line 586 {"exception":"[object] (RuntimeException(code: 0): Unexpected data in output buffer. Maybe you have characters before an opening <?php tag? at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php:586)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(375): Slim\\App->finalize(Object(Slim\\Http\\Response))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#2 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#3 {main}
+"} []
+[2017-10-03 17:47:52] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-03 17:48:01] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-03 17:48:01] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-03 17:48:02] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-03 17:48:09] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 08:40:35] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 08:40:52] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 08:53:38] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 10:18:33] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 11:08:48] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 11:09:22] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 11:09:23] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 11:09:26] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 11:25:17] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 11:35:36] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route3')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 11:47:54] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 11:47:58] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 11:48:02] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 11:48:19] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 11:54:37] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 11:56:00] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 13:09:32] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 13:10:35] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 13:11:46] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 13:12:29] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 13:13:42] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 13:21:41] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 13:22:01] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 13:22:08] LegoAPI.ERROR: Uncaught Exception RuntimeException: "Route not found, looks like your route cache is stale." at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php line 342 {"exception":"[object] (RuntimeException(code: 0): Route not found, looks like your route cache is stale. at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\\App->dispatchRouterAndPrepareRoute(Object(Slim\\Http\\Request), Object(Lego\\Slim\\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#4 {main}
+"} []
+[2017-10-04 13:23:13] LegoAPI.CRITICAL: [#8b0eb12c96][658da1][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:32:03] LegoAPI.CRITICAL: [#455b1f9ec8][ead991][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(558): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:33:11] LegoAPI.CRITICAL: [#9ef2a9a855][656efb][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(558): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:33:16] LegoAPI.CRITICAL: [#4346f3af2b][885ff9][505] Uncaught exception 'RuntimeException' with message 'Unexpected data in output buffer. Maybe you have characters before an opening <?php tag?' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php:589
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(375): Slim\App->finalize(Object(Slim\Http\Response))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#2 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#3 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:33:48] LegoAPI.CRITICAL: [#12d1223ea8][554e85][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(555): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:42:33] LegoAPI.CRITICAL: [#79d2cf1835][b3f258][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(553): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:42:43] LegoAPI.CRITICAL: [#25542c6ec9][54699d][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(553): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:42:44] LegoAPI.CRITICAL: [#6b21a8f082][37ffe9][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(553): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:42:44] LegoAPI.CRITICAL: [#d69f179b31][0015e8][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(553): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:42:44] LegoAPI.CRITICAL: [#3d4167d094][0b307e][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(553): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:42:44] LegoAPI.CRITICAL: [#2ef7f1aa8d][ee74ac][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(553): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:42:54] LegoAPI.CRITICAL: [#630b45bc62][a4606c][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(553): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:44:25] LegoAPI.CRITICAL: [#2f9b623dc2][20dcf0][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(553): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:44:26] LegoAPI.CRITICAL: [#c3898e5579][51b5e2][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(553): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 13:44:27] LegoAPI.CRITICAL: [#c303151218][d69189][505] Uncaught exception 'RuntimeException' with message 'Route not found, looks like your route cache is stale.' in /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Router.php:342
+Stack trace:
+#0 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(553): Slim\Router->lookupRoute('route2')
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(362): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Lego\Slim\Router))
+#2 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#3 /var/www/html/styl/api/public/index.php(13): Slim\App->run()
+#4 {main}
+  thrown
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-10-04 17:15:12] LegoAPI.CRITICAL: UnAuthenticated request {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/http-cache/src/Cache.php(57): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 [internal function]: Slim\\HttpCache\\Cache->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Slim\\HttpCache\\Cache), Array)
+#12 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#13 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#14 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#15 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#16 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#17 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#18 {main}"} []
+[2017-10-04 17:19:15] LegoAPI.CRITICAL: UnAuthenticated request {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/http-cache/src/Cache.php(57): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 [internal function]: Slim\\HttpCache\\Cache->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Slim\\HttpCache\\Cache), Array)
+#12 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#13 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#14 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#15 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#16 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#17 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#18 {main}"} []
+[2017-10-04 17:19:16] LegoAPI.CRITICAL: UnAuthenticated request {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/http-cache/src/Cache.php(57): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 [internal function]: Slim\\HttpCache\\Cache->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Slim\\HttpCache\\Cache), Array)
+#12 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#13 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#14 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#15 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#16 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#17 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#18 {main}"} []
+[2017-10-06 09:52:24] LegoAPI.CRITICAL: UnAuthenticated request {"trace":"#0 [internal function]: Lego\\Slim\\Authenticate->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#1 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Authenticate), Array)
+#2 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#3 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#4 /var/www/html/styl/api/libraries/Lego/Slim/Render.php(32): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#5 [internal function]: Lego\\Slim\\Render->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#6 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Lego\\Slim\\Render), Array)
+#7 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#8 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#9 /var/www/html/styl/api/libraries/vendor/slim/http-cache/src/Cache.php(57): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#10 [internal function]: Slim\\HttpCache\\Cache->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#11 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/DeferredCallable.php(43): call_user_func_array(Object(Slim\\HttpCache\\Cache), Array)
+#12 [internal function]: Slim\\DeferredCallable->__invoke(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#13 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(73): call_user_func(Object(Slim\\DeferredCallable), Object(Slim\\Http\\Request), Object(Slim\\Http\\Response), Object(Closure))
+#14 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(122): Slim\\App->Slim\\{closure}(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#15 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(367): Slim\\App->callMiddlewareStack(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#16 /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php(294): Slim\\App->process(Object(Slim\\Http\\Request), Object(Slim\\Http\\Response))
+#17 /var/www/html/styl/api/public/index.php(13): Slim\\App->run()
+#18 {main}"} []
+[2017-10-06 13:20:35] LegoAPI.NOTICE: E_NOTICE: Undefined index: config {"code":8,"message":"Undefined index: config","file":"/var/www/html/styl/api/libraries/Lego/Slim/Guard.php","line":38} []
+[2017-10-06 13:28:06] LegoAPI.NOTICE: E_NOTICE: Undefined index: config {"code":8,"message":"Undefined index: config","file":"/var/www/html/styl/api/libraries/Lego/Slim/Guard.php","line":38} []
+[2017-10-06 13:28:09] LegoAPI.NOTICE: E_NOTICE: Undefined index: config {"code":8,"message":"Undefined index: config","file":"/var/www/html/styl/api/libraries/Lego/Slim/Guard.php","line":38} []
+[2017-10-06 13:50:24] LegoAPI.WARNING: E_WARNING: in_array() expects parameter 2 to be array, string given {"code":2,"message":"in_array() expects parameter 2 to be array, string given","file":"/var/www/html/styl/api/libraries/Lego/Modular/Controller.php","line":101} []
+[2017-10-06 13:51:18] LegoAPI.NOTICE: E_NOTICE: Undefined index: config {"code":8,"message":"Undefined index: config","file":"/var/www/html/styl/api/libraries/Lego/Slim/Guard.php","line":38} []

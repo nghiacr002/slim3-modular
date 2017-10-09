@@ -1,0 +1,74 @@
+[2017-09-01 10:49:33] LegoAPI.ERROR: E_RECOVERABLE_ERROR: Argument 1 passed to Slim\Http\Request::createFromEnvironment() must be an instance of Slim\Http\Environment, array given, called in /var/www/html/styl/api/libraries/Lego/Helper/BaseActionTest.php on line 66 and defined {"code":4096,"message":"Argument 1 passed to Slim\\Http\\Request::createFromEnvironment() must be an instance of Slim\\Http\\Environment, array given, called in /var/www/html/styl/api/libraries/Lego/Helper/BaseActionTest.php on line 66 and defined","file":"/var/www/html/styl/api/libraries/vendor/slim/slim/Slim/Http/Request.php","line":138} []
+[2017-09-01 11:56:22] LegoAPI.CRITICAL: [#caa48d4713][a2df55][505] Call to undefined method Slim\Http\Response::getParsedBody()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 14:01:51] LegoAPI.CRITICAL: [#330f87b73b][578534][505] Call to undefined method Slim\Http\Response::isPost()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 14:02:01] LegoAPI.CRITICAL: [#55fb21f0a4][94af7f][505] Call to undefined method Slim\Http\Response::getUri()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 14:02:01] LegoAPI.CRITICAL: [#e30569a44d][2258d7][505] Call to undefined method Slim\Http\Response::getUri()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 14:55:00] LegoAPI.CRITICAL: [#85969085bd][02ec82][505] Call to undefined method Slim\Http\Response::getURI()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 14:55:00] LegoAPI.CRITICAL: [#fc7dc9dc31][26f17f][505] Call to undefined method Slim\Http\Response::getURI()
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 15:36:40] LegoAPI.NOTICE: E_NOTICE: Undefined index: v {"code":8,"message":"Undefined index: v","file":"/var/www/html/styl/api/tests/Modules/Core/IndexController/HelloActionTest.php","line":47} []
+[2017-09-01 16:23:32] LegoAPI.NOTICE: E_NOTICE: Undefined index: v {"code":8,"message":"Undefined index: v","file":"/var/www/html/styl/api/tests/Modules/Core/IndexController/HelloActionTest.php","line":47} []
+[2017-09-01 16:23:32] LegoAPI.NOTICE: E_NOTICE: Undefined index: v {"code":8,"message":"Undefined index: v","file":"/var/www/html/styl/api/tests/Modules/Core/IndexController/HelloActionTest.php","line":47} []
+[2017-09-01 16:23:32] LegoAPI.CRITICAL: [#ee33f5b8c6][836376][505] Undefined index: v
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 16:23:32] LegoAPI.CRITICAL: [#c501acc6ac][ee0d68][505] Undefined index: v
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 16:38:45] LegoAPI.WARNING: E_WARNING: Cannot use a scalar value as an array {"code":2,"message":"Cannot use a scalar value as an array","file":"/var/www/html/styl/api/libraries/Lego/Helper/BaseActionTest.php","line":38} []
+[2017-09-01 16:38:45] LegoAPI.ERROR: Uncaught Exception InvalidArgumentException: "Expected a ContainerInterface" at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php line 80 {"exception":"[object] (InvalidArgumentException(code: 0): Expected a ContainerInterface at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php:80)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/Lego/Slim/App.php(20): Slim\\App->__construct(true)
+#1 /var/www/html/styl/api/libraries/Lego/Helper/BaseActionTest.php(40): Lego\\Slim\\App->__construct(true)
+#2 /var/www/html/styl/api/libraries/Lego/Helper/BaseActionTest.php(22): Lego\\Helper\\BaseActionTest->initApp()
+#3 phar:///usr/local/bin/phpunit/phpunit/Framework/TestSuite.php(557): Lego\\Helper\\BaseActionTest->__construct()
+#4 phar:///usr/local/bin/phpunit/phpunit/Framework/TestSuite.php(849): PHPUnit_Framework_TestSuite::createTest(Object(ReflectionClass), 'testCorrectInpu...')
+#5 phar:///usr/local/bin/phpunit/phpunit/Framework/TestSuite.php(168): PHPUnit_Framework_TestSuite->addTestMethod(Object(ReflectionClass), Object(ReflectionMethod))
+#6 phar:///usr/local/bin/phpunit/phpunit/Framework/TestSuite.php(274): PHPUnit_Framework_TestSuite->__construct(Object(ReflectionClass))
+#7 phar:///usr/local/bin/phpunit/phpunit/Framework/TestSuite.php(356): PHPUnit_Framework_TestSuite->addTestSuite(Object(ReflectionClass))
+#8 phar:///usr/local/bin/phpunit/phpunit/Framework/TestSuite.php(382): PHPUnit_Framework_TestSuite->addTestFile('/var/www/html/s...')
+#9 phar:///usr/local/bin/phpunit/phpunit/Util/Configuration.php(946): PHPUnit_Framework_TestSuite->addTestFiles(Array)
+#10 phar:///usr/local/bin/phpunit/phpunit/Util/Configuration.php(843): PHPUnit_Util_Configuration->getTestSuite(Object(DOMElement), NULL)
+#11 phar:///usr/local/bin/phpunit/phpunit/TextUI/Command.php(784): PHPUnit_Util_Configuration->getTestSuiteConfiguration(NULL)
+#12 phar:///usr/local/bin/phpunit/phpunit/TextUI/Command.php(127): PHPUnit_TextUI_Command->handleArguments(Array)
+#13 phar:///usr/local/bin/phpunit/phpunit/TextUI/Command.php(116): PHPUnit_TextUI_Command->run(Array, true)
+#14 /usr/local/bin/phpunit(588): PHPUnit_TextUI_Command::main()
+#15 {main}
+"} []
+[2017-09-01 16:38:45] LegoAPI.CRITICAL: [#01280c35e9][25ad27][505] Cannot use a scalar value as an array
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
+[2017-09-01 16:39:08] LegoAPI.WARNING: E_WARNING: Cannot use a scalar value as an array {"code":2,"message":"Cannot use a scalar value as an array","file":"/var/www/html/styl/api/libraries/Lego/Helper/BaseActionTest.php","line":38} []
+[2017-09-01 16:39:08] LegoAPI.ERROR: Uncaught Exception InvalidArgumentException: "Expected a ContainerInterface" at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php line 80 {"exception":"[object] (InvalidArgumentException(code: 0): Expected a ContainerInterface at /var/www/html/styl/api/libraries/vendor/slim/slim/Slim/App.php:80)
+[stacktrace]
+#0 /var/www/html/styl/api/libraries/Lego/Slim/App.php(20): Slim\\App->__construct(true)
+#1 /var/www/html/styl/api/libraries/Lego/Helper/BaseActionTest.php(40): Lego\\Slim\\App->__construct(true)
+#2 /var/www/html/styl/api/libraries/Lego/Helper/BaseActionTest.php(22): Lego\\Helper\\BaseActionTest->initApp()
+#3 phar:///usr/local/bin/phpunit/phpunit/Framework/TestSuite.php(557): Lego\\Helper\\BaseActionTest->__construct()
+#4 phar:///usr/local/bin/phpunit/phpunit/Framework/TestSuite.php(849): PHPUnit_Framework_TestSuite::createTest(Object(ReflectionClass), 'testCorrectInpu...')
+#5 phar:///usr/local/bin/phpunit/phpunit/Framework/TestSuite.php(168): PHPUnit_Framework_TestSuite->addTestMethod(Object(ReflectionClass), Object(ReflectionMethod))
+#6 phar:///usr/local/bin/phpunit/phpunit/Framework/TestSuite.php(274): PHPUnit_Framework_TestSuite->__construct(Object(ReflectionClass))
+#7 phar:///usr/local/bin/phpunit/phpunit/Framework/TestSuite.php(356): PHPUnit_Framework_TestSuite->addTestSuite(Object(ReflectionClass))
+#8 phar:///usr/local/bin/phpunit/phpunit/Framework/TestSuite.php(382): PHPUnit_Framework_TestSuite->addTestFile('/var/www/html/s...')
+#9 phar:///usr/local/bin/phpunit/phpunit/Util/Configuration.php(946): PHPUnit_Framework_TestSuite->addTestFiles(Array)
+#10 phar:///usr/local/bin/phpunit/phpunit/Util/Configuration.php(843): PHPUnit_Util_Configuration->getTestSuite(Object(DOMElement), NULL)
+#11 phar:///usr/local/bin/phpunit/phpunit/TextUI/Command.php(784): PHPUnit_Util_Configuration->getTestSuiteConfiguration(NULL)
+#12 phar:///usr/local/bin/phpunit/phpunit/TextUI/Command.php(127): PHPUnit_TextUI_Command->handleArguments(Array)
+#13 phar:///usr/local/bin/phpunit/phpunit/TextUI/Command.php(116): PHPUnit_TextUI_Command->run(Array, true)
+#14 /usr/local/bin/phpunit(588): PHPUnit_TextUI_Command::main()
+#15 {main}
+"} []
+[2017-09-01 16:39:08] LegoAPI.CRITICAL: [#8eaa8d3212][0e8de5][505] Cannot use a scalar value as an array
+ {"trace":"#0 [internal function]: Lego\\Slim\\App->handleFatalError()
+#1 {main}"} []
